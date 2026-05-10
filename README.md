@@ -6,6 +6,7 @@ Grant Lavell Whitmer III · Windstorm Labs, The Windstorm Institute · Fort Ann,
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19672827-blue)](https://doi.org/10.5281/zenodo.19672827)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
+[![Track: Throughput Basin](https://img.shields.io/badge/Track-1_·_Throughput_Basin-3b82f6)](https://windstorminstitute.org/#track1)
 
 **Zenodo**: [10.5281/zenodo.19672827](https://doi.org/10.5281/zenodo.19672827) (concept DOI, always-latest) · **Current version: v2.2** ([10.5281/zenodo.19672828](https://doi.org/10.5281/zenodo.19672828), April 2026)
 
