@@ -15,7 +15,7 @@ Grant Lavell Whitmer III · Windstorm Labs, The Windstorm Institute · Fort Ann,
 ## Read the Paper
 
 - **[paper.pdf](paper.pdf)** — full academic paper
-- **[Website article](https://windstorminstitute.org/articles/vision-basin.html)** — long-form companion (forthcoming)
+- **[Website article](https://windstorminstitute.org/articles/vision-basin.html)** — long-form companion
 
 ## Experiment Code
 
